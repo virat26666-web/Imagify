@@ -1,0 +1,5 @@
+{
+  "name": "Imagify: AI Image Generator",
+  "description": "A text-to-image generator application that allows users to create stunning visuals from simple text prompts using the power of AI.",
+  "requestFramePermissions": []
+}
